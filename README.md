@@ -533,6 +533,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 ## Aggregators
 
 - [BountyHQ](https://bountyhq.secapps.com/)
+- [N4!TR0 07](https://x.com/n4itr0_07)
 
 ## License
 
